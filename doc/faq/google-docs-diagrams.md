@@ -5,6 +5,11 @@ faq: true
 categories: [Integrations,Google]
 ---
 
+# NOTE: This add-on is currently blocked by Google
+_There is no known solution.   See https://github.com/jgraph/drawio/issues/4589_
+
+# Legacy instructions below...
+
 Use the free [draw.io add-on for Google Docs](https://workspace.google.com/marketplace/app/drawio/224440279306) to embed your diagrams into your documents. When you make changes to your diagram, you need to update them inside your document to see the changes.
 
 **Tip:** draw.io apps for Google Workspace are also available for [Google Drive](/doc/faq/google-drive-install-drawio.html) and [Google Slides](/doc/faq/google-slides-drawio-install.html).
